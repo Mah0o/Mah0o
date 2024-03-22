@@ -42,8 +42,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Mah0o/Mah0o/output/snake.svg" alt="Snake animation" />
 
 ###
